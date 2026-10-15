@@ -1,0 +1,7 @@
+Text,Sentiment,Score,Confidence,Positive_Prob,Negative_Prob,Neutral_Prob
+"Apple Inc. beats quarterly revenue expectations, shares surge 4% in after-hours trading.",Positive,0.8917442,0.9297298,0.9297298,0.037985627,0.032284595
+"Tesla recalls over 100,000 vehicles due to software glitch, stock drops in premarket.",Negative,-0.9625133,0.9699692,0.0074559087,0.9699692,0.02257494
+Federal Reserve officials hold interest rates steady as inflation concerns linger.,Negative,-0.71140224,0.7586705,0.04726825,0.7586705,0.19406123
+"Nvidia launches new Blackwell chips, projecting massive revenue growth next year.",Positive,0.80875164,0.8241947,0.8241947,0.015443102,0.1603621
+The recent earnings call summary highlighted that supply chain constraints severely impacted gross margins and led to a downward revision of full-year EPS guidance.,Negative,-0.9648809,0.9734534,0.008572526,0.9734534,0.01797399
+"Management's earnings call summary emphasized record-breaking cash flow generation and the successful launch of three new high-margin product lines, increasing dividend payouts.",Positive,0.93954563,0.9546975,0.9546975,0.015151865,0.030150728

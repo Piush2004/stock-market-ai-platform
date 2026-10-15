@@ -1,0 +1,7 @@
+Headline,Sentiment,Confidence,Positive_Prob,Negative_Prob,Neutral_Prob
+"Apple Inc. beats quarterly revenue expectations, shares surge 4% in after-hours trading.",Positive,0.9297298,0.9297298,0.037985582,0.032284595
+"Tesla recalls over 100,000 vehicles due to software glitch, stock drops in premarket.",Negative,0.9699692,0.007455905,0.9699692,0.022574933
+Federal Reserve officials hold interest rates steady as inflation concerns linger.,Negative,0.7586705,0.04726825,0.7586705,0.19406123
+"Nvidia launches new Blackwell chips, projecting massive revenue growth next year.",Positive,0.82419443,0.82419443,0.015443118,0.16036245
+Global stock markets remain flat ahead of the upcoming employment report.,Negative,0.9095566,0.038921423,0.9095566,0.051521964
+Oil prices drop to a three-month low amid rising inventory and slowing economic growth.,Negative,0.9653917,0.010143539,0.9653917,0.024464693

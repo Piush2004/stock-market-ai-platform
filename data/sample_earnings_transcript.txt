@@ -1,0 +1,44 @@
+TechCorp Q3 2026 Earnings Conference Call Transcript
+Date: November 12, 2026
+
+Corporate Participants:
+- Sarah Jenkins: Chief Executive Officer
+- Michael Chang: Chief Financial Officer
+- David Miller: Vice President of Investor Relations
+
+Presentation Highlights:
+
+Sarah Jenkins (CEO):
+Good morning, everyone, and welcome to TechCorp's third quarter 2026 earnings call. I am pleased to report that TechCorp has delivered another strong quarter of financial results, driven by the acceleration of our Enterprise Cloud Platform and the launch of our new AI-powered business analytics suite. 
+
+For the third quarter of 2026, our total revenue reached $15.4 billion, representing a 14% growth year-over-year. This growth was driven primarily by our Cloud division, which grew 22% to $6.8 billion. We saw record enterprise adoption this quarter, signing several multi-year agreements with Fortune 500 customers.
+
+Our international expansion is also paying off. Revenues from the Asia-Pacific region grew 18% and now account for 25% of our total revenue. Our margins remain robust, with a gross margin of 71.5% and operating margin rising to 28.2%, reflecting our continued focus on operational efficiency.
+
+Michael Chang (CFO):
+Thank you, Sarah. I will now walk you through the detailed financial metrics. 
+
+Our net income for the quarter was $3.8 billion, up 16% from Q3 2025. Diluted earnings per share (EPS) came in at $1.15, exceeding our guidance range of $1.05 to $1.10. 
+
+Operating cash flow was exceptionally strong at $4.5 billion, and we returned $1.2 billion to shareholders through share buybacks and dividends. 
+
+Looking forward to the fourth quarter of 2026, we expect:
+- Total revenue to be in the range of $16.1 billion to $16.5 billion.
+- Full year 2026 revenue guidance is raised to $60.5 billion to $61.0 billion, up from our previous guidance of $59.5 billion.
+- Diluted EPS for Q4 is expected to be between $1.20 and $1.25.
+
+We are confident in our momentum as we head into the end of the fiscal year. 
+
+Question and Answer Session (Q&A):
+
+Analyst John Doe (Global Capital):
+Can you provide more details on the capital expenditure for the remainder of the year and into 2027, given the aggressive build-out of your AI infrastructure?
+
+Michael Chang (CFO):
+Yes, John. Capital expenditure in Q3 was $2.1 billion, mostly directed toward server hardware and data center expansion. We expect Q4 Capex to be around $2.4 billion, bringing our full-year 2026 Capex to approximately $8.5 billion. For 2027, we expect capital expenditures to increase by another 10% to support the growing demand for our AI training workloads.
+
+Analyst Jane Smith (Value Research):
+What is the churn rate in the cloud segment, and are you seeing any pricing pressure from competitors?
+
+Sarah Jenkins (CEO):
+Hi, Jane. Our cloud net revenue retention rate stands at a healthy 118%, indicating strong upsell and very low customer churn. We have not seen significant pricing pressure in the enterprise segment, as customers are prioritizing the unique features and AI integrations we offer over raw storage price.
